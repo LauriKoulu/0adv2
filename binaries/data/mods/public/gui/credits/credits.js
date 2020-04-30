@@ -9,7 +9,8 @@ var g_OrderTabNames = [
 	"balancing",
 	"community",
 	"translators",
-	"donators"
+	"donators",
+	"course"
 ];
 
 /**
