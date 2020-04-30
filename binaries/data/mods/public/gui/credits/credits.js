@@ -8,9 +8,9 @@ var g_OrderTabNames = [
 	"history",
 	"balancing",
 	"community",
-	"translators",
+	"translators", // This was also edited to add our names for translatin Klingonese
 	"donators",
-	"course"
+	"course" // Checks for course.json on the texts folder and makes a new tab (Software Maintenance Course) based on it
 ];
 
 /**
