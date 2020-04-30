@@ -83,3 +83,6 @@ long.*.po
 
 # OSX specific data
 .DS_Store
+
+#atlas files. too large.
+libraries/win32/wxwidgets/
